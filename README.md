@@ -25,7 +25,7 @@ _Local clone? See [Quick start](#quick-start) below. cenius.ai is the zero-setup
 
 ## Architecture
 
-A self-contained Julia project (54 files): top-level directories include `data/`, `db/`, `public/`, `src/`, `test/`. Dependency management and data seeding are both handled by `./install.sh` — run it once, then start the server. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+A self-contained Julia project (41 files): top-level directories include `data/`, `db/`, `public/`, `src/`, `test/`. Dependency management and data seeding are both handled by `./install.sh` — run it once, then start the server. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## Features
 
